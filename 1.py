@@ -4,3 +4,6 @@ def foo(a, b):
 
 def bla(xxx):
     return 1
+    
+def blasss():
+    pass
