@@ -37,4 +37,9 @@ def hello():
 
 
 def works():
+    """
+
+    Returns:
+
+    """
     return 'yes'
