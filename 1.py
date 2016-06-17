@@ -14,5 +14,5 @@ def hello():
     return 1111
 
 
-#def works():
-#    return 'yes'
+def works():
+    return 'yes'
