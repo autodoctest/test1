@@ -20,4 +20,7 @@ def bla(xxx):
     return 1
     
 def blasss():
+    """
+
+    """
     pass
