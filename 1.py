@@ -28,6 +28,11 @@ def blasss():
 
 
 def hello():
+    """
+
+    Returns:
+
+    """
     return 1111
 
 
