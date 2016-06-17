@@ -1,4 +1,7 @@
 def somes():
+    """
+
+    """
     pass
 
 def foo(a, b):
