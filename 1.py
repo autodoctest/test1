@@ -1,4 +1,6 @@
-def somes():
+def somes(sds):
+    """dsds
+    """
     pass
 
 def foo(a, b):
