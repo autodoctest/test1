@@ -10,8 +10,8 @@ def blasss():
     pass
 
 
-#def hello():
-#    return 1111
+def hello():
+    return 1111
 
 
 #def works():
