@@ -7,3 +7,7 @@ def bla(xxx):
     
 def blasss():
     pass
+
+
+def hello():
+    return 1111
