@@ -9,4 +9,12 @@ def foo(a, b):
 
 
 def bla(xxx):
+    """
+
+    Args:
+        xxx:
+
+    Returns:
+
+    """
     return 1
